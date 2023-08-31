@@ -6,7 +6,6 @@ import "./Loading.css"
 function Loading() {
     return (  
         <AiOutlineLoading3Quarters className="loading"/>
-
     );
 }
 

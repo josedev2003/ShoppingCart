@@ -33,7 +33,7 @@
     font-weight: 500;
 }
 
-.card__button{
+.button__add-card{
     position: absolute;
     top: 0%;
     right: 0;
@@ -55,6 +55,6 @@
 
 
 }
-.product-card:hover .card__button{
+.product-card:hover .button__add-card{
     display: flex;
 }
